@@ -1,0 +1,13 @@
+{
+  "name": "bodypix_server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "GNU",
+  "scripts": {
+    "server": "node src/server.js"
+  },
+  "dependencies": {
+    "@tensorflow-models/body-pix": "^2.0.5",
+    "@tensorflow/tfjs-node": "^2.0.1"
+  }
+}
