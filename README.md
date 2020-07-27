@@ -1,4 +1,7 @@
 # Linux Webcam Emulator
+
+![test-gif](https://raw.githubusercontent.com/cristianpaixao/linux_webcam_emulator/master/test.gif)
+
 A emulator to add background &amp; effects to webcam on linux.
 
 This is still in work in progress. Feel free to contribute.
